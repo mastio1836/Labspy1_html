@@ -1,12 +1,11 @@
 1.Lakukan perubahan pada kode sesuai dengan keinginan anda,amati perubahanya adakah error ketika terjadi penulisan tag?
-  
-
+2.
 jawab
 ada ketika saya menulis tag <p align="center"> ketika saya memvalidasi link tersebut 
 muncul sebuah error yang menuju kepada tag tersebut
  
  2.Apa perbedaan dari tag<p> dan tag <br>,berikan penjelasanya
-
+ 3.
 jawab 
 <br>yaitu untuk berpindah barisan ke barisan baru ketika disuatu paragraf di masukan kode ini maka kalimat tersebut
 akan pindah ke barisan baru
