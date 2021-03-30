@@ -1,11 +1,11 @@
-1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
-error ketika terjadi kesalahan penulisan tag?
+ Lakukan perubahan pada kode sesuai dengan keinginan anda,amati perubahanya adakah error ketika terjadi penulisan tag?
+  
 
 jawab
 ada ketika saya menulis tag <p align="center"> ketika saya memvalidasi link tersebut 
 muncul sebuah error yang menuju kepada tag tersebut
  
-2.Apa perbedaan dari tag<p> dan tag <br>,berikan penjelasanya
+ Apa perbedaan dari tag<p> dan tag <br>,berikan penjelasanya
 
 jawab
  
