@@ -14,8 +14,7 @@ input code
 
 ouput codenya
 
-
-![Align Left input](https://user-images.githubusercontent.com/56244106/112919385-3bf0e480-9131-11eb-99b8-be78d657a2ff.PNG)
+![Align left rata kiri](https://user-images.githubusercontent.com/56244106/112923506-a48f8f80-9138-11eb-9d39-524c6dba34a7.PNG)
 
 
 Input dari align Right yaitu baris kanan sebuah teks code pada paragraf
