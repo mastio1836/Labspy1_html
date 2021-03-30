@@ -13,4 +13,6 @@ input code
 ![Align Left input](https://user-images.githubusercontent.com/56244106/112916865-9ab35f80-912b-11eb-8368-8588c8c610a1.PNG)
 
 ouput codenya
+
+
 ![Align Left input](https://user-images.githubusercontent.com/56244106/112919385-3bf0e480-9131-11eb-99b8-be78d657a2ff.PNG)
